@@ -10,11 +10,6 @@
 
 ## 开启在线游玩
 
-仓库所有者可以在 **Settings → Pages** 中选择 **Deploy from a branch → main → /(root)**，保存并等待部署完成。
-
-开启成功后，游戏地址为：`https://suiyuenchow-pixel.github.io/Gal-trying/`。
-
-以上是预期发布地址；上传文件本身不代表 Pages 已开启。
 
 ## 文件与存档
 
